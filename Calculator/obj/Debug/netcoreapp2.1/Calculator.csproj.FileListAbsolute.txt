@@ -1,0 +1,11 @@
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/Calculator/Calculator/bin/Debug/netcoreapp2.1/Calculator.deps.json
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/Calculator/Calculator/bin/Debug/netcoreapp2.1/Calculator.runtimeconfig.json
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/Calculator/Calculator/bin/Debug/netcoreapp2.1/Calculator.runtimeconfig.dev.json
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/Calculator/Calculator/bin/Debug/netcoreapp2.1/Calculator.dll
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/Calculator/Calculator/bin/Debug/netcoreapp2.1/Calculator.pdb
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.csprojAssemblyReference.cache
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.AssemblyInfoInputs.cache
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.AssemblyInfo.cs
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.dll
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.pdb
